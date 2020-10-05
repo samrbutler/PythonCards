@@ -1,5 +1,5 @@
 # pythonCards
-A module for creating card games
+A simple module for creating card games in Python
 
 Currently contains:
 * cards.py, a module that defines cards, hands, decks and players
