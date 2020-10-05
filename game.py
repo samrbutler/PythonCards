@@ -1,5 +1,4 @@
 import hearts,math
-ordinal = lambda n: "%d%s" % (n,"tsnrhtdd"[(math.floor(n/10)%10!=1)*(n%10<4)*n%10::4])
 game_ended = False
 losingscore = input('Please enter the number of points to play to. ')
 
